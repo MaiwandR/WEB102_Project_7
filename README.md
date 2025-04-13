@@ -38,14 +38,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Main Vid](https://youtu.be/RjSSFNBamo0)
+[URL Vid](https://youtu.be/pGPVMSJZCZM)
+*As you can see in the second video I ran out of API tokens but since I had retrieved the info for the few available items I was able to use their ID to go to the details page and thus each item has a unique URL based on their ID*
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
@@ -53,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Maiwand Raheem]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
